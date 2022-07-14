@@ -1,0 +1,2 @@
+# This is a brief comprehension of the Heuristic Algorithm
+The aim of this expository report is to explain and analyze the Heuristic Algorithm which is for the Steiner tree problem in a undergraduate-understandable way. Furthermore, there will be some extensions of this algorithm like, application, related algorithm in this report. Besides, we will not talk about the time complexity of this algorithm which exceed the knowledge that we learned in Graph theory.
